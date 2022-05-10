@@ -21,9 +21,11 @@
     font-size: 39px;
     font-weight: bold;
     font-family: 'New Tegomin', serif;
+    color:white;
 }
 
 #hiscoreBox{
+    color:white;
     position: absolute;
     top: 59px;
     right: 140px;
